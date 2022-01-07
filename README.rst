@@ -3,14 +3,14 @@ Sphinx to GitHub Pages
 ======================
 
 .. image:: https://img.shields.io/github/stars/sphinx-notes/pages.svg?style=social&label=Star&maxAge=2592000
-   :target: https://github.com/sphinx-notes/pages
+   :target: https://github.com/chepo92/sphinx-notes-pages
 
 The project is originated from `seanzhengw/sphinx-pages`_,
 it helps you building Sphinx documentation and commit specified branch.
 
 .. _seanzhengw/sphinx-pages: https://github.com/seanzhengw/sphinx-pages.
 
-own demo:
+own demo: https://chepo92.github.io/sphinx-notes-pages/
 
 Usage
 =====
