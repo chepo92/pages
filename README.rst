@@ -20,7 +20,7 @@ Usage
    You should enable extension ``sphinx.ext.githubpages`` in your ``conf.py``
    first.
 
-The simplpest Workflow file looks like that:
+The simplest Workflow file looks like that:
 
 .. code-block:: yaml
 
